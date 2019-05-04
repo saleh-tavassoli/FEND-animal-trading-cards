@@ -11,7 +11,8 @@ ul {
   padding: 0;
 }
 
-h3, figure {
+h3,
+figure {
   margin: 0;
   margin-bottom: 15px;
 }
