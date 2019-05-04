@@ -12,7 +12,7 @@
 - Double click on *card.html*
 
 ## Initial Design Prototype
-[](assets/cheetah-img.jpg)
+![hey](assets/design-prototype.png)
 
 
 ## Learning Concepts
