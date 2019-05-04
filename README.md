@@ -11,8 +11,9 @@
 - Download the project
 - Double click on *card.html*
 
-## Initial Design Prototype
-![hey](assets/design-prototype.png)
+## Initial Design Prototype and Repository
+Initial project can be found [here](https://github.com/udacity/fend-animal-trading-cards).
+[![hey](assets/design-prototype.png)](https://github.com/udacity/fend-animal-trading-cards)
 
 
 ## Learning Concepts
@@ -31,6 +32,7 @@
 - [CSS Box Shadow Playground (cssmatic)](https://www.cssmatic.com/)
 
 ## TO DO
+- [ ] Add Table of Contents to README file
 - [ ] Add some fonts
 - [ ] Add some more design features as following [link](https://user-images.githubusercontent.com/16986422/33263182-88c829c0-d371-11e7-82b6-81c241f54c5f.png)
 - [ ] Live preview 
